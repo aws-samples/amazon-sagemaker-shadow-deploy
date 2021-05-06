@@ -1,0 +1,7 @@
+-e .
+pytest
+aws-cdk.aws_apigateway==1.80.0
+aws-cdk.aws-lambda==1.80.0
+aws-cdk.aws_dynamodb==1.80.0
+boto3
+cdk-dynamo-table-viewer
