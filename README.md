@@ -10,8 +10,9 @@
 
 #### For Option 1 - Deploy models with an offline approach using Amazon SageMaker Model Monitor
 
-1. Clone this project to your device https://github.com/aws-samples/amazon-sagemaker-shadow-deploy.git
-2. Execute the notebook present here resources/Shadow-deployment-async-process-demo-breast-cancer.ipynb
+1. Clone this project to your Jyputer Lab/SageMaker Studio: git clone https://github.com/aws-samples/amazon-sagemaker-shadow-deploy.git
+2. Spin up a SageMaker Notebook with kernel set to `conda_python3`
+3. Execute the notebook present here resources/Shadow-deployment-async-process-demo-breast-cancer.ipynb
 
 #### For Option 2  - Deploy models with a synchronous approach 
 
