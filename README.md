@@ -13,7 +13,7 @@ Reference architecture for sagemaker shadow deployment of real time inference en
 
 ## Setup Instructions
 
-1. Clone this project to your device: git clone https://github.com/rvvittal/sagemaker-shadow-deploy 
+1. Clone this project to your device: git clone https://github.com/aws-samples/amazon-sagemaker-shadow-deploy.git
 2. Navigate to project root directory and create virtualenv: python3 -m venv .venv
 3. Activate virtualenv: source .venv/bin/activate
 4. Install dependent packages: pip install -r requirements.txt
