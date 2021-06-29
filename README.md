@@ -1,10 +1,5 @@
 # sagemaker-shadow-deploy
 
-## UNDER CONSTRUCTION
-
-Reference architecture for sagemaker shadow deployment of real time inference endpoint.
-
-
 ## Prereqs
 
 1. Install CDK on your device using these instructions: https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-python.html
