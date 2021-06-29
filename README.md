@@ -13,6 +13,13 @@ Reference architecture for sagemaker shadow deployment of real time inference en
 
 ## Setup Instructions
 
+#### For Option 1 - Deploy models with an offline approach using Amazon SageMaker Model Monitor
+
+1. Clone this project to your device https://github.com/aws-samples/amazon-sagemaker-shadow-deploy.git
+2. Execute the notebook present here resources/Shadow-deployment-async-process-demo-breast-cancer.ipynb
+
+#### For Option 2  - Deploy models with a synchronous approach 
+
 1. Clone this project to your device: git clone https://github.com/aws-samples/amazon-sagemaker-shadow-deploy.git
 2. Navigate to project root directory and create virtualenv: python3 -m venv .venv
 3. Activate virtualenv: source .venv/bin/activate
