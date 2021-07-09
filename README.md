@@ -1,9 +1,10 @@
 # sagemaker-shadow-deploy
 
+**Corresponding Blog is published here: https://aws.amazon.com/blogs/machine-learning/deploy-shadow-ml-models-in-amazon-sagemaker/**
+
 ## Prereqs
 
 1. Install CDK on your device using these instructions: https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-python.html
-
 
 
 ## Setup Instructions
